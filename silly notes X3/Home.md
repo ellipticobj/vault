@@ -28,4 +28,3 @@ banner_lock: true
 | Chemistry      | Wong KL                    |               |                     |
 | Computing      | Jovita Tang / Raymond Chng |               |                     |
 | SnW            | Ms Choo                    |               |                     |
-|                |                            |               |                     |
